@@ -1,0 +1,110 @@
+.headers{
+    font-size: x-large;
+    white-space:pre;
+    font-family: calibri;
+    color: rgb(33, 30, 30);
+    padding-left:30px;
+}
+.button1,.button2{
+ width:210px;
+ height:48px;
+ border-radius: 10px;
+ border:0px;
+color:white;
+background-color: rgb(28, 76, 219);
+font-size: large;
+}
+
+.para{
+
+    white-space:pre;
+    font-size:50px;
+    font-family: arial;
+    line-height: 70px;
+}   
+
+p.card1{
+    border: 2px solid rgb(180, 177, 177);
+    border-radius:20px;
+    width:80%;
+    height:480px;
+    background-color:white;
+    padding:20px;
+    font-family: calibri;
+    font-weight: 500;
+    line-height: 25px;
+}
+p.card1:hover{
+    border: 2px solid rgb(180, 177, 177);
+    border-radius:20px;
+    box-shadow:1px  2px 10px 1px gray;
+    background-color:white;
+  }
+p.card2{
+    background-color: white;
+    border-radius: 20px;
+    width:70%;
+    height:480px;
+    border:2px solid rgb(180, 177, 177);
+    font-family: calibri;
+    font-weight: 500;
+    line-height: 25px;
+    padding:20px;
+
+}
+p.card2:hover{
+    border: 2px solid rgb(180, 177, 177);
+    border-radius:20px;
+    box-shadow:1px  2px 10px 1px gray;
+    background-color:white;
+}
+div.cards{
+    background-color: rgb(244, 247, 245);
+}
+div#course1,#course2,#course3,#course4{
+    border:2px solid white;
+    box-shadow: 0 3px 10px 6px rgba(231, 240, 241, 0.852);
+    width:300px;
+    height:400px;
+    margin:15px;
+    font-family: calibri;
+    padding:px;
+}
+h3{
+    font-size: larger;
+    font-family: Calibri;
+}
+
+h3:hover{
+    color:rgb(37, 99, 176);
+    font-size: larger;
+    font-family: Calibri;
+}
+.viewcourse{
+    text-align: center;
+    color:black;
+    text-decoration: none;
+}
+.viewcourse:hover{
+    color:blue;
+    text-decoration: none;
+}
+.reqcall{
+    width:210px;
+    height:48px;
+    border-radius: 10px;
+    border:0px;
+   color:white;
+   background-color: rgb(28, 76, 219);
+   font-size: large;
+   }
+.floatcard{
+    border:2px solid none;
+    width:220px;
+    height:320px;
+    margin:15px;
+    font-family: calibri;
+    padding:30px;
+    background-color: rgba(238, 239, 240, 0.623);
+    border-radius: 15px;
+}
